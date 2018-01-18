@@ -1,2 +1,4 @@
 # private
-private repo
+private repo for git command demostration
+
+
